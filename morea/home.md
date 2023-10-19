@@ -3,6 +3,7 @@ title: "Home"
 morea_id: home
 morea_type: home
 published: true
+theme: cerulean-green
 ---
 
 ## Welcome to EE 160, Fall 2023

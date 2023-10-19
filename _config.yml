@@ -4,7 +4,7 @@
 # SITE SPECIFIC: The following fields are typically changed for each site
 name: EE 160 Fall23 Test
 baseurl: /EE-160-Test
-morea_theme: spacelab
+morea_theme: darkly
 timezone: Pacific/Honolulu
 morea_navbar_items:
   - Prerequisites

@@ -7,25 +7,15 @@ published: true
 
 ## Welcome to EE 160, Fall 2023
 
-<div class="alert alert-danger" role="alert" markdown="1">
-
-  <i class="fa-solid fa-circle-exclamation fa-xl"></i> **Warning: this is not a website for a real course.**
-  <hr/>
-  
-  It is actually the "demo" site for the Morea Framework. 
-
-  See the <a href="https://morea-framework.github.io">Morea Framework Project Site</a> for details.
-</div>
-
-ICS 199 is a four week overview of selected topics in computer science, including Javascript, Open Source Software, and Ethics.
+Programming for Engineer (EE 160) is an introduction to computer programming and modern computing environments with an emphasis on algorithm and program design, implementation, and debugging. The course also includes a hands-on laboratory to develop and practice programming skills.
 
 ## Who should take this course
 
-This course is intended for undergraduates in computer science or computer engineering who have a working knowledge of at least one programming language and who want to get a taste of important topics in the field.
+This course is intended for undergraduates pursuing BENG, CE, CENG, EE, ME, PREN, CNST, and ENGS majors.
 
 ## Pedagogy
 
-ICS 199 is structured as a sequential series of [modules](/modules), each taking approximately a week to complete. Each module has the following structure:
+EE 160 is structured as a sequential series of [modules](/modules), each taking approximately a week to complete. Each module has the following structure:
 
   * [Prerequisites](/prerequisites), describing skills you should have prior to starting the module.
   * [Learning outcomes](/outcomes), describing the major goals for the module.
@@ -35,4 +25,4 @@ ICS 199 is structured as a sequential series of [modules](/modules), each taking
 
 ## About the instructor
 
-[Philip Johnson](https://philipmjohnson.org) is a Professor of Information and Computer Sciences at the University of Hawaii. His research interests include climate change, educational technology, software engineering, and serious games. He is currently an active developer of [RadGrad](https://radgrad.org), an open source software system based on Javascript, Typescript, React, and Meteor.
+Christopher Manloloyo [manloloy@hawaii.edu] is an Instructor of Electrical and Computer Engineering at the University of Hawai'i Manoa.

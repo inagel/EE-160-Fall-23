@@ -5,7 +5,7 @@ morea_type: home
 published: true
 ---
 
-## Welcome to ICS 199, Fall 2021
+## Welcome to EE 160, Fall 2023
 
 <div class="alert alert-danger" role="alert" markdown="1">
 

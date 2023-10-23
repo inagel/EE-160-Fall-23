@@ -3,7 +3,7 @@ title: "Introductory Experiences with Python 3"
 published: true
 morea_id: experience-intro_py3
 morea_type: experience
-morea_summary: "intro_py3"
+morea_summary: "This is a summary!"
 morea_start_date: "2023-08-20"
 morea_labels:
 ---

@@ -6,7 +6,7 @@ title: Modules
 
 <div class="container">
   <h1>Modules <small class="header-small">Topics covered in this class</small></h1>
-  <h2><small><font = color="yellow">SIGNPOST: This header section is modified in modules/index.md</font></small></h2>
+  <h2><small style="color: yellow;">SIGNPOST: This header section is modified in modules/index.md</font></small></h2>
   
   {% if site.morea_overview_modules %}
     {{ site.morea_overview_modules.content | markdownify }}

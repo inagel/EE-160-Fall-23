@@ -2,7 +2,7 @@
 title: "This is a 160 Test Module"
 published: true
 morea_coming_soon: false
-morea_id: module-160_test.md
+morea_id: module-160_test
 morea_prerequisites:
 morea_outcomes:
    - outcome-160_test

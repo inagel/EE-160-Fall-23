@@ -13,7 +13,7 @@ morea_experiences:
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
-morea_icon_url: /morea/CHANGE-ME/CHANGE-ME.png
+morea_icon_url: C:\Users\PCGz\Documents\Py3 Projects\EE 160 Page\test icon.png
 morea_start_date: "2021-07-12"
 morea_end_date: "2021-07-16"
 morea_labels:

@@ -9,7 +9,7 @@ published: true
 
 Programming for Engineer (EE 160) is an introduction to computer programming and modern computing environments with an emphasis on algorithm and program design, implementation, and debugging. The course also includes a hands-on laboratory to develop and practice programming skills.
 
-SIGNPOST: this area is modified in morea/home.md
+<font color="yellow"> SIGNPOST: this area is modified in morea/home.md</font>
 
 ## Who should take this course
 

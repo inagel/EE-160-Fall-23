@@ -4,7 +4,7 @@ published: true
 morea_id: experience-160_test
 morea_type: experience
 morea_summary: "Experience"
-morea_start_date: "2021-07-15T23:00"
+morea_start_date: "2023-08-20"
 morea_labels:
 ---
 

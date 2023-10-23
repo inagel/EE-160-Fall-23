@@ -14,8 +14,8 @@ morea_assessments:
    - assessment-160_test
 morea_type: module
 morea_icon_url: /morea/EE_160_Module/test_icon.png
-morea_start_date: "2021-07-12"
-morea_end_date: "2021-07-16"
+morea_start_date: "2023-08-20"
+morea_end_date: "2023-12-31"
 morea_labels:
 morea_sort_order: 21
 ---

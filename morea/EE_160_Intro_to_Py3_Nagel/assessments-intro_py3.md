@@ -2,7 +2,7 @@
 title: "Introductory Assessments for Python 3"
 published: true
 morea_id: assessment-intro_py3
-morea_summary: "intro_py3"
+morea_summary: "This is a summary!"
 morea_outcomes_assessed:
   - outcome-intro_py3
 morea_type: assessment

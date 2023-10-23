@@ -5,3 +5,7 @@ core.iml
 _site
 .jekyll-cache
 .DS_Store
+example-ethics/
+example-introduction/
+example-javascript/
+example-open-source-software/

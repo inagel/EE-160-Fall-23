@@ -1,0 +1,9 @@
+---
+title: "This is a 160 Test Outcome"
+published: true
+morea_id: outcome-EE_160_test
+morea_type: outcome
+morea_sort_order: 10
+---
+
+<font color="yellow">SIGNPOST: this area modified from EE_160_Module/outcome-EE_160_test.md</font>

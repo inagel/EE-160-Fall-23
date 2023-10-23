@@ -1,7 +1,7 @@
 ---
 title: "This is 160 Test Assessments"
 published: true
-morea_id: assessment-EE_160_test
+morea_id: assessment-160_test
 morea_summary: "CHANGE ME"
 morea_outcomes_assessed:
  # - outcome-EE_160_test

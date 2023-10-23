@@ -13,7 +13,7 @@ morea_experiences:
 morea_assessments:
    - assessment-intro_py3
 morea_type: module
-morea_icon_url: morea/EE_160_Intro_to_Py3_Nagel/intro_py3_icon.png
+morea_icon_url: /morea/EE_160_Intro_to_Py3_Nagel/intro_py3_icon.png
 morea_start_date: "2023-08-20"
 morea_end_date: "2023-12-31"
 morea_labels:

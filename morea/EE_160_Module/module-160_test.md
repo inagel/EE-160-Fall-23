@@ -13,7 +13,7 @@ morea_experiences:
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
-morea_icon_url: "morea/EE_160_Module/test icon.png"
+morea_icon_url: "test icon.png"
 morea_start_date: "2021-07-12"
 morea_end_date: "2021-07-16"
 morea_labels:

@@ -20,5 +20,5 @@ morea_labels:
 morea_sort_order: 21
 ---
 
-<font color="yellow">This is a 160 test module take 2</font>
+<font color="yellow">SIGNPOST: this area is edited in morea/EE_160_Module/module-160_test.</font>
 

@@ -6,4 +6,4 @@ published: true
 ---
 
 For any module not marked as "Coming Soon", click on it to go to a page containing details.
-SIGNPOST: This area is modified in morea/overview-modules.md
+<font color="yellow">SIGNPOST: This area is modified in morea/overview-modules.md</font>

@@ -13,12 +13,12 @@ morea_experiences:
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
-morea_icon_url: "test icon.png"
+morea_icon_url: "test_icon.png"
 morea_start_date: "2021-07-12"
 morea_end_date: "2021-07-16"
 morea_labels:
 morea_sort_order: 21
 ---
 
-<font color="yellow">This is a 160 test module</font>
+<font color="yellow">This is a 160 test module take 2</font>
 

@@ -5,13 +5,13 @@ morea_coming_soon: false
 morea_id: module-160_test
 morea_prerequisites:
 morea_outcomes:
-  # - outcome-CHANGE-ME
+   - outcome-160_test
 morea_readings:
-  # - reading-CHANGE-ME
+   - reading-160_test
 morea_experiences:
-  # - experience-CHANGE-ME
+   - experience-160_test
 morea_assessments:
-  # - assessment-CHANGE-ME
+   - assessment-160_test
 morea_type: module
 morea_icon_url: /morea/EE_160_Module/test_icon.png
 morea_start_date: "2021-07-12"

@@ -29,15 +29,15 @@ EE 160 is structured as a sequential series of [modules](/modules), each taking 
 
 EE 160 runs from August 21st through December 15th.  The course includes 3cr of lecture and 1cr of a 3-hour lab.  Lectures will be held Tuesdays and Thursdays from 01:30 to 02:45 P.M. in HIG 110.  Lab times will be assigned per section and held in POST 214.
 
- *Section 1:
+ Section 1:
   - CRN 76124
   - Lab Tuesday 07:30 to 10:15 A.M.
     
- *Section 2:
+ Section 2:
   - CRN 76125
   - Lab Tuesday 03:30 to 06:15 P.M.
     
- *Section 3:
+ Section 3:
   - CRN 76126
   - Lab Thursday 03:30 to 06:15 P.M.
 

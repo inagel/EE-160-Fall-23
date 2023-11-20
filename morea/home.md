@@ -32,9 +32,11 @@ EE 160 runs from August 21st through December 15th.  The course includes 3cr of 
  *Section 1:
   - CRN 76124
   - Lab Tuesday 07:30 to 10:15 A.M.
+    
  *Section 2:
   - CRN 76125
   - Lab Tuesday 03:30 to 06:15 P.M.
+    
  *Section 3:
   - CRN 76126
   - Lab Thursday 03:30 to 06:15 P.M.

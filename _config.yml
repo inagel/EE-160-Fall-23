@@ -2,7 +2,7 @@
 # See https://morea-framework.github.io/docs/instructors/config-yml
 
 # SITE SPECIFIC: The following fields are typically changed for each site
-name: EE 160 Fall23 Test
+name: EE 160 Fall Semester 2023
 baseurl: /EE-160-Test
 morea_theme: cerulean-green
 timezone: Pacific/Honolulu

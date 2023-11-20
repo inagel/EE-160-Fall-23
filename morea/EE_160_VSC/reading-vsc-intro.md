@@ -12,7 +12,7 @@ morea_labels:
 # Getting Started with Visual Studio Code
 Visual Studion Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS, and linux.  It comes with built-in support JavaScript, TypeScript, and Node.js, and has a rich ecosystem of extensions for other languages and runtimes (such as C++, C#, Java).  Begin your journey with VS Code with these introductory variables. 
 
-![image](EE-160-Test/morea/EE_160_VSC/vsc_icon2.png)
+![title](EE-160-Test/morea/EE_160_VSC/vsc_icon.png)
 
 ## First Steps
 To get the most out of Visual Studio Code, start by reviewing a few introductory topics:

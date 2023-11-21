@@ -11,6 +11,15 @@ title: Prerequisites
 {% if site.morea_overview_prerequisites %}
 <div class="container">
  {{ site.morea_overview_prerequisites.content | markdownify }}
+  <h2>The 5 Step Process</h2>
+
+  1. <u>Understand the problem</u>
+    <ul>
+      <li>What is this program supposed to do?</li>
+      <li>What kind of information is it given? (What is the input?)</li>
+      <li>What kind of results is it to produce? (What is the output?)</li>
+      <li>What formulas or techniques will be needed?</li>
+  </ul>
 </div>
 {% endif %}
 

@@ -11,8 +11,6 @@ morea_experiences:
  - experience-vsc
 morea_assessments:
  - assessment-vsc
-morea_prerequisites:
-  - prerequisite-vsc
 morea_icon_url: /morea/EE_160_VSC/vsc_icon2.png
 morea_type: module
 morea_sort_order: 125

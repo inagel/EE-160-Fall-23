@@ -30,7 +30,8 @@ title: Prerequisites
     <li>Remember that each line of code is sequentially executed.</li>
     <li>Your algorithm must include all the steps sequentially to arrive at a solution.</li>
   </ul>
-4. <u>Translate the algorithm into a programming language (like python, C, C++, Javascript, Java . . . etc.)</u><br><br>
+4. <u>Translate the algorithm into a programming language (like python, C, C++, Javascript, Java . . . etc.)</u><br>
+<br>
 5. <u>Test the program</u>
 </div>
 {% endif %}

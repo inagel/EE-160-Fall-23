@@ -31,6 +31,7 @@ title: Prerequisites
     <li>Your algorithm must include all the steps sequentially to arrive at a solution.</li>
   </ul>
 4. <u>Translate the algorithm into a programming language (like python, C, C++, Javascript, Java . . . etc.)</u>
+
 5. <u>Test the program</u>
 </div>
 {% endif %}

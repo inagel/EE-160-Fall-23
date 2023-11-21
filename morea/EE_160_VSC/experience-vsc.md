@@ -10,7 +10,7 @@ morea_labels:
  - "Foundations: 2"
 ---
 
-# E08: What are the professional codes of software engineering ethics?
+# E01: How does VS Code help to make code writing simple?
 
 (Adapted with permission from "An Introduction to Software Engineering Ethics" by Shannon Vallor and Arvind Narayanan.)
 

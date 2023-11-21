@@ -1,8 +1,8 @@
 ---
-title: "E08: What are the professional codes of software engineering ethics?"
+title: "E01: What are the basic features of VS Code?"
 published: true
 morea_id: experience-vsc
-morea_summary: "How do professional codes help us to be ethical in our working lives?"
+morea_summary: "How does VS Code help to make code writing simple?"
 morea_type: experience
 morea_start_date: "2023-08-21T23:00"
 morea_sort_order: 1

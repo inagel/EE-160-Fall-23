@@ -1,8 +1,8 @@
 ---
-title: "A03: Assess your ability to reason about ethical issues in software development"
+title: "A01: Assess your ability to use the basic functions within Visual Code Studio."
 published: true
 morea_id: assessment-vsc
-morea_summary: What would you do under pressure?
+morea_summary: Writing, debugging, and running your code.
 morea_outcomes_assessed:
  - outcome-vsc
 morea_type: assessment
@@ -11,11 +11,11 @@ morea_sort_order: 12
 morea_labels:
 ---
 
-# A03: Assess your ability to reason about ethical issues in software development
+# A01: Assess your ability to use the basic functions within Visual Code Studio.
 
 ## Overview
 
-After taking part in this assessment, you will have a better understanding of whetheryou can effectively reason about ethical issues in software development through reference to the ACM Code of Ethics and other ethics literature.
+After taking part in this assessment, you will have a better understanding of whetheryou can effectively generate python files, write and edit your code, install and use a debugger, and run your code is VSC.
 
 ## Outcomes
 

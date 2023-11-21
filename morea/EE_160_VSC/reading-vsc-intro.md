@@ -30,7 +30,7 @@ To get the most out of Visual Studio Code, we will be covering these introductor
    - 
 ## Intro Videos:  Begin your journey with VS Code through introductory videos.
 
-Pass
+<a href="[url](https://code.visualstudio.com/docs/getstarted/introvideos)">Introductory Videos</a>
 
 ## Setup:  Install VS Code for your platform and configure the tool set for your development needs.
 

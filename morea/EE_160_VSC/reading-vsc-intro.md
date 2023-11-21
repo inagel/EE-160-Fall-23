@@ -57,3 +57,10 @@ Pass
 ## Why VS Code:  Learn about the design philosophy and architecture of VS Code.
 
 Pass
+
+<div class="alert alert-info" role="alert" markdown="1">
+<i class="fa-solid fa-circle-info fa-xl"></i> **For more information**
+<hr/>
+The content of this chapter was adapted from:
+* [VS Code Overview](https://code.visualstudio.com/docs)
+</div>

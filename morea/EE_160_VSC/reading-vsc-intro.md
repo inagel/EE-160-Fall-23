@@ -27,10 +27,10 @@ To get the most out of Visual Studio Code, we will be covering these introductor
    - Tips and Tricks:  Jump right in with Tips and Tricks to become a VS Code power use.
     
    - Why VS Code:  Learn about the design philosophy and architecture of VS Code.
-   - 
+
 ## Intro Videos:  Begin your journey with VS Code through introductory videos.
 
-<a href="[url](https://code.visualstudio.com/docs/getstarted/introvideos)">Introductory Videos</a>
+[Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
 
 ## Setup:  Install VS Code for your platform and configure the tool set for your development needs.
 
